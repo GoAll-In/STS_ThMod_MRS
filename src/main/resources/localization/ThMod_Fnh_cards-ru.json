@@ -80,36 +80,36 @@
     "DESCRIPTION": "Сжигает до X + 1 карт. NL Наносит !D! урона дважды за каждую сожжёную карту, или трижды, если сожжёная карта - Ожог."
   },
   "MilkyWay": {
-    "NAME": "Milky Way",
-    "DESCRIPTION": "Gain !B! Block. Draw 1 card. NL ALL Attacks in your hand deal !M! additional damage this combat."
+    "NAME": "Млечный Путь",
+    "DESCRIPTION": "Даёт !B! Защиты. Вы берёте 1 карту. NL ВСЕ Атаки в вашей руке наносят !M! дополнительного урона в этом бою."
   },
   "NonDirectionalLaser": {
-    "NAME": "Non-Directional Laser",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies, then deal !D! damage to a random enemy."
+    "NAME": "Ненапрвленный луч",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам, затем наносит !D! урона случайному врагу."
   },
   "Occultation": {
-    "NAME": "Occultation",
-    "DESCRIPTION": "Discard your draw pile. Gain 1 Block for each card discarded.",
-    "UPGRADE_DESCRIPTION": "Discard your draw pile. Gain 1 Block for each card discarded +3.",
+    "NAME": "Затмение",
+    "DESCRIPTION": "Сжигает все карты в стопке сброса. Даёт 1 Защиты за каждую сожжённую карту.",
+    "UPGRADE_DESCRIPTION": "Сжигает все карты в стопке сброса. Даёт 1 Защиты за каждую сожжённую карту +3.",
     "EXTENDED_DESCRIPTION": [
-      "(Gain !B! in total.)",
+      "(Даёт !B! Защиты.)",
       ""
     ]
   },
   "OortCloud": {
-    "NAME": "OortCloud",
-    "DESCRIPTION": "Gain !M! Plated Armor. NL Amplify  [E]  : Gain !B! more Plated Armor.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Plated Armor. NL Amplify  [E]  : Gain 3 more Plated Armor."
+    "NAME": "Облако Оорт",
+    "DESCRIPTION": "Даёт !M! Панциря. NL Усиление  [E]  : Даёт ещё !B! Панциря.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! Панциря. NL Усиление  [E]  : Даёт ещё 3 Панциря."
   },
   "PolarisUnique": {
-    "NAME": "Polaris Unique",
-    "DESCRIPTION": "Innate. Shuffle a Guiding Star into your draw pile. Gain  [E]  at the start of your turn while it is in your draw pile(does not stack).",
-    "UPGRADE_DESCRIPTION": "Innate. Shuffle a Guiding Star into your draw pile. Gain  [E]  at the start of your turn while it is in your draw pile."
+    "NAME": "Полярная звезда",
+    "DESCRIPTION": "Начальная. Замешивает Путеводную звезду в стопку добора. Даёт  [E]  в начале вашего хода пока находится в стопке добора(эффект не складывется).",
+    "UPGRADE_DESCRIPTION": "Начальная. Замешивает Путеводную звезду в стопку добора. Даёт  [E]  в начале вашего хода пока находится в стопке добора."
   },
   "SatelliteIllusion": {
-    "NAME": "Satellite Illusion",
-    "DESCRIPTION": "Gain  [E]  when the number of cards in your draw pile increases during your turn.",
-    "UPGRADE_DESCRIPTION": "Innate. Gain  [E]  when the number of cards in your draw pile increases during your turn."
+    "NAME": "Иллюзорный приспешник",
+    "DESCRIPTION": "Даёт  [E]  если число карт в стопке добора увеличивается во время вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. Даёт  [E]  если число карт в стопке добора увеличивается во время вашего хода."
   },
   "ShootTheMoon": {
     "NAME": "Shoot The Moon",
