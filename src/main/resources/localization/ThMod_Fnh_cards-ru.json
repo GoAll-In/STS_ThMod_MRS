@@ -112,74 +112,74 @@
     "UPGRADE_DESCRIPTION": "Начальная. Даёт  [E]  если число карт в стопке добора увеличивается во время вашего хода."
   },
   "ShootTheMoon": {
-    "NAME": "Shoot The Moon",
-    "DESCRIPTION": "Remove a random buff from your target if it is not a boss enemy. Deal !D! damage. NL Amplify  [E]  : Remove ALL buffs and deal !B! damage instead.",
+    "NAME": "Лунный восход",
+    "DESCRIPTION": "Снимает случайный положительный эффект с выбранного врага(кроме боссов). Наносит !D! урона. NL Усиление  [E]  : Вместо этого снимает ВСЕ положительные эффекты и наносит !B! урона.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWW"
   },
   "StarDustReverie": {
-    "NAME": "Stardust Reverie",
-    "DESCRIPTION": "Shuffle your hand into your draw pile, then add that many random cards into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle your hand into your draw pile, then add that many random Upgraded cards to your hand. NL Exhaust."
+    "NAME": "Звёздная пыль грёз",
+    "DESCRIPTION": "Замешивает все карты в руке в стопку добора, затем добавляет столько же случайных карт в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Замешивает все карты в руке в стопку добора, затем добавляет столько же случайных Улучшенных карт в руку. NL Сжигается."
   },
   "UltraShortWave": {
-    "NAME": "Ultimate Shortwave",
-    "DESCRIPTION": "Gain !B!  [E]  and !M! Charge-up. Increase the energy and Charge-up gain of this card by 1 for this combat.",
+    "NAME": "Абсолютная волна",
+    "DESCRIPTION": "Даёт !B!  [E]  и !M! Заряда. С каждым применением в этом бою даёт на 1 больше Энергии и Заряда.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "MillisecondPulsars": {
-    "NAME": "Millisecond Pulsars",
-    "DESCRIPTION": "Amplify effects cost no  [E]  this combat.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Amplify effects cost no  [E]  this combat."
+    "NAME": "Миллисекундные Пульсары",
+    "DESCRIPTION": "Эффекты Усиления не тратят  [E]  в этом бою.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Эффекты Усиления не тратят  [E]  в этом бою."
   },
   "Spark": {
-    "NAME": "Spark",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust.",
+    "NAME": "Искра",
+    "DESCRIPTION": "Наносит !D! урона. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "UpSweep": {
-    "NAME": "Rising Sweep",
-    "DESCRIPTION": "Deal !D! damage. Gain !M! Charge-up.",
+    "NAME": "Восходящий взмах",
+    "DESCRIPTION": "Наносит !D! урона. Даёт !M! Заряда.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "GuidingStar": {
-    "NAME": "Guiding Star",
-    "DESCRIPTION": "Shuffle a copy of this card into your draw pile. NL Shuffle your discard pile into your draw pile. NL Exhaust.",
+    "NAME": "Путеводная звезда",
+    "DESCRIPTION": "Замешивает копию этой карты в стопку добора. NL Перетасовывает карты из стопки сброса в стопку добора. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "OrrerysSun": {
-    "NAME": "Orrerys Sun",
-    "DESCRIPTION": "Whenever Charge-up is consumed, deal !M! damage to ALL enemies.",
+    "NAME": "Планетарное Солнце",
+    "DESCRIPTION": "Каждый раз, когда вы тратите Заряд, наносит !M! урона ВСЕМ врагам.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "ChargingUp": {
-    "NAME": "Charging Up",
-    "DESCRIPTION": "Gain !M! Charge-up. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Charge-up. NL Amplify  [E]  : Gain 3 additional stacks."
+    "NAME": "Подзарядка",
+    "DESCRIPTION": "Даёт !M! Заряда. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! Заряда. NL Усиление  [E]  : Даёт 3 дополнительных стака."
   },
   "LuminesStrike": {
-    "NAME": "Luminous Strike",
-    "DESCRIPTION": "Deal damage equal to 2 times the number of cards in your hand( !D! damage). NL Amplify  [E]  : Deal damage equal to 4 times your current energy instead( !B! damage).",
-    "UPGRADE_DESCRIPTION": "Deal damage equal to 3 times the number of cards in your hand( !D! damage). NL Amplify  [E]  : Deal damage equal to 5 times your current energy instead( !B! damage)."
+    "NAME": "Сияющий удар",
+    "DESCRIPTION": "Наносит урон, двукратный количеству карт в руке( !D! урона). NL Усиление  [E]  : Вместо этого наносит урон, четырёхкратный кол-ву Энергии( !B! урона).",
+    "UPGRADE_DESCRIPTION": "Наносит урон, трёхкратный количеству карт в руке( !D! урона). NL Усиление  [E]  : Вместо этого наносит урон, пятикратный кол-ву Энергии( !B! урона)."
   },
   "OpenUniverse": {
-    "NAME": "Open Universe",
-    "DESCRIPTION": "Shuffle 5 random cards into your draw pile. Each of them has a !D! % chance to be Upgraded. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Shuffle 5 random cards into your draw pile. Draw !M! cards."
+    "NAME": "Открытая Вселенная",
+    "DESCRIPTION": "Замешивает 5 случайных карт в стопку добора. Каждая из них может с шансом в !D! % быть Улучшенной. NL Вы берёте !M! карты.",
+    "UPGRADE_DESCRIPTION": "Замешивает 5 случайных карт в стопку добора. Вы берёте !M! карты."
   },
   "BlazeAway": {
-    "NAME": "Blaze Away",
-    "DESCRIPTION": "Add a copy of the last Attack you played this turn to your hand. NL It costs 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add 2 copies of the last Attack you played this turn to your hand. NL They cost 0 this turn. NL Exhaust.",
+    "NAME": "Полыхание",
+    "DESCRIPTION": "Добавляет в руку копию последней сыгранной в этом ходу Атаки. NL В этом ходу она стоит 0. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Добавляет в руку 2 копии последней сыгранной в этом ходу Атаки. NL В этом ходу они стоят 0. NL Сжигается.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Last Attack : ",
+      " NL (Последняя Атака : ",
       " ).",
-      " NL (You haven't played an Attack this turn.)"
+      " NL (Вы ещё не играли Атаку в этом ходу.)"
     ]
   },
   "MaximisePower": {
-    "NAME": "Max Power",
-    "DESCRIPTION": "Convert your Charge-up stacks into energy. Add 1 Exhaustion to your hand. Your attack damage is doubled this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Convert your Charge-up stacks into energy. Add 1 Exhaustion to your hand. NL Your attack damage is doubled this turn."
+    "NAME": "Максимальная мощь",
+    "DESCRIPTION": "Переводит ваши стаки Заряда в Энергию. Добавляет 1 Усталость в руку. Урон от Атак в этом ходу удвоен. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Переводит ваши стаки Заряда в Энергию. Добавляет 1 Усталость в руку. Урон от Атак в этом ходу удвоен."
   },
   "StarlightTyphoon": {
     "NAME": "Starlight Typhoon",
