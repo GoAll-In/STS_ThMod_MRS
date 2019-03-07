@@ -182,128 +182,128 @@
     "UPGRADE_DESCRIPTION": "Переводит ваши стаки Заряда в Энергию. Добавляет 1 Усталость в руку. Урон от Атак в этом ходу удвоен."
   },
   "StarlightTyphoon": {
-    "NAME": "Starlight Typhoon",
-    "DESCRIPTION": "Deal damage equal to !M! times the number of cards that cost 0 you played this combat to ALL enemies.",
-    "UPGRADE_DESCRIPTION": " Exhaust ALL non-Attack cards in your hand. Add the same number of upgraded Sparks to your hand.",
+    "NAME": "Звёздный тайфун",
+    "DESCRIPTION": "Наносит ВСЕМ врагам урон в !M! раз больший, чем количество карт стоимостью 0 которые вы сыграли в этом ходу.",
+    "UPGRADE_DESCRIPTION": "Сжигает все карты в руке, кроме атак. Добавляет столько же Искр в вашу руку.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !B! damage.)",
+      " NL (Наносит !B! урона.)",
       ""
     ]
   },
   "StarlightTyphoon_D": {
-    "NAME": "Starlight Typhoon",
-    "DESCRIPTION": " Exhaust ALL non-Attack cards in your hand. Add the same number of Sparks to your hand.",
-    "UPGRADE_DESCRIPTION": " Exhaust ALL non-Attack cards in your hand. Add the same number of Upgraded Sparks to your hand."
+    "NAME": "Звёздный тайфун",
+    "DESCRIPTION": "Сжигает все карты в руке, кроме атак. Добавляет столько же Искр в вашу руку.",
+    "UPGRADE_DESCRIPTION": "Сжигает все карты в руке, кроме атак. Добавляет столько же Искр в вашу руку."
   },
   "SuperPerseids": {
-    "NAME": "Super Perseids",
-    "DESCRIPTION": "Unplayable. When this card is drawn, gain [E]. NL If this card is Exhausted, deal !D! damage to a random enemy.",
+    "NAME": "Супер-персеиды",
+    "DESCRIPTION": "Неиграбельная. Когда вы берёте эту карту, даёт [E]. NL Если эта карта Сжигается, наносит !D! урона случайному врагу.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "MysteriousBeam": {
-    "NAME": "Mysterious Beam",
-    "DESCRIPTION": "Add a random Attack to your hand. Deal damage equal to the damage of the card added.",
-    "UPGRADE_DESCRIPTION": "Add a random upgraded Attack to your hand. Deal damage equal to the damage of the card added."
+    "NAME": "Таинственный луч",
+    "DESCRIPTION": "Добавляет случайную Атаку в руку. Наносит урон, равный урону добавленной карты.",
+    "UPGRADE_DESCRIPTION": "Добавляет случайную Улучшенную Атаку в руку. Наносит урон, равный урону добавленной карты."
   },
   "ShootingEcho": {
-    "NAME": "Shooting Echo",
-    "DESCRIPTION": " Exhaust a random card. Add a Shooting Echo to your hand. NL Deal !D! damage. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Exhaust a card. Add an Upgraded Shooting Echo to your hand. NL Deal !D! damage. NL Exhaust."
+    "NAME": "Стрелковое Эхо",
+    "DESCRIPTION": "Сжигает случайную карту в руке. Добавляет Стрелковое Эхо в руку. NL Наносит !D! урона. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Сжигает карту в руке. Добавляет Улучшенное Стрелковое Эхо в руку. NL Наносит !D! урона. NL Сжигается."
   },
   "EnergyFlow": {
-    "NAME": "Energy Flow",
-    "DESCRIPTION": "Gain !M! Charge-up at the end of your turn.",
+    "NAME": "Поток энергии",
+    "DESCRIPTION": "Даёт !M! Заряда в конце вашего хода.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "PowerUp": {
-    "NAME": "Upgrade!",
-    "DESCRIPTION": "ALL Attacks in your hand deal !M! additional damage this combat.",
+    "NAME": "Улучшение!",
+    "DESCRIPTION": "ВСЕ Атаки в вашей руке наносят !M! дополнительного урона в этом бою.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "WitchLeyline": {
-    "NAME": "Witch Leyline",
-    "DESCRIPTION": "Deal !D! damage. Add 2 Burns to your hand.",
+    "NAME": "Колдовская линия Лей",
+    "DESCRIPTION": "Наносит !D! урона. Добавляет 2 Ожога в вашу руку.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "JA": {
-    "NAME": "Warming Up",
-    "DESCRIPTION": "Deal !D! damage. Add a 623B, a Spark and a Witch Leyline to your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. Add a 623B, a Spark and a Witch Leyline to your hand and Upgrade them."
+    "NAME": "Разогрев",
+    "DESCRIPTION": "Наносит !D! урона. Добавляет 623B, Искру и Колдовскую линию Лей в вашу руку.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет 623B, Искру и Колдовскую линию Лей в вашу руку и Улучшает их."
   },
   "AbsoluteMagnitude": {
-    "NAME": "Absolute Magnitude",
-    "DESCRIPTION": "Deal damage equal to 2 times your Charge-up (Deals !B! damage).",
-    "UPGRADE_DESCRIPTION": "Deal damage equal to 3 times your Charge-up (Deals !B! damage)."
+    "NAME": "Абсолютная высота",
+    "DESCRIPTION": "Наносит урон, двукратный вашему Заряду (Наносит !B! урона).",
+    "UPGRADE_DESCRIPTION": "Наносит урон, трёхкратный вашему Заряду (Наносит !B! урона)."
   },
   "DragonMeteor": {
-    "NAME": "Dragon Meteor",
-    "DESCRIPTION": "Deal !B! damage. NL Deals an additional !M! damage for each card in your exhaust pile.",
+    "NAME": "Метеор дракона",
+    "DESCRIPTION": "Наносит !B! урона. NL Наносит !M! дополнительного урона за каждую карту в стопке сжигания.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "EventHorizon": {
-    "NAME": "Event Horizon",
-    "DESCRIPTION": "!M! time(s) each turn, when you activate an Amplify effect, you can put an Attack from your discard pile into your hand.",
+    "NAME": "Горизонт событий",
+    "DESCRIPTION": "!M! раз(а) за ход, когда вы активируете эффект Усиления, вы можете положить Атаку из стопки сброса в руку.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "PulseMagic": {
-    "NAME": "Pulse Magic",
-    "DESCRIPTION": "Next turn, gain  [E]  . Amplify [E]  : Amplify effects cost no [E] this turn.",
-    "UPGRADE_DESCRIPTION": "Next turn, gain [E]  [E]  . Amplify [E]  : Amplify effects cost no [E] this turn."
+    "NAME": "Импульсная магия",
+    "DESCRIPTION": "На следующем ходу, даёт  [E]  . Усиление [E]  : Эффекты Усиления не стоят [E] в этом ходу.",
+    "UPGRADE_DESCRIPTION": "На следующем ходу, даёт  [E]  [E]  . Усиление [E]  : Эффекты Усиления не стоят [E] в этом ходу."
   },
   "D6C": {
     "NAME": "66C",
-    "DESCRIPTION": "Innate. NL Deal !D! damage. NL Deals double damage if there are no cards in your discard pile.",
+    "DESCRIPTION": "Начальная. NL Наносит !D! урона. NL Наносит двойной урон, если в вашей стопке сброса нет карт.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "Singularity": {
-    "NAME": "Singularity",
-    "DESCRIPTION": "Whenever you play a card that costs 0, increase the damage of a random Attack in your hand by !M! .",
+    "NAME": "Сингулярность",
+    "DESCRIPTION": "Каждый раз, когда вы играете карту стоимостью 0, увеличивает урон случайной Атаки в вашей руке на !M! .",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "SporeBomb": {
-    "NAME": "Spore Crump",
-    "DESCRIPTION": "Apply !M! Vulnerable to an enemy. NL Amplify  [E]  : Apply !M! Vulnerable to ALL enemies instead.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to all enemies. NL Amplify  [E]  : 1 more stack."
+    "NAME": "Комок спор",
+    "DESCRIPTION": "Накладывает !M! Уязвимости на врага. NL Усиление  [E]  : Вместо этого накладывает !M! Уязвимости на ВСЕХ врагов.",
+    "UPGRADE_DESCRIPTION": "Накладывает !M! Уязвимости на ВСЕХ врагов. NL Усиление  [E]  : На 1 больше Уязвимости"
   },
   "FluorensentBeam": {
-    "NAME": "Fluorensent Beam",
-    "DESCRIPTION": "ALL enemies lose !D! HP. NL Amplify  [E]  [E]  : Deal  !B! instead.",
+    "NAME": "Флуоресцентный луч",
+    "DESCRIPTION": "ВСЕ враги теряют !D! ОЗ. NL Усиление  [E]  [E]  : Вместо этого наносит  !B!.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "WitchOfGreed": {
-    "NAME": "Witch Of Greed",
-    "DESCRIPTION": "At the end of combat, gain !M! gold.  NL  Amplify  [E] : Also obtain a random potion.",
+    "NAME": "Ведьма жадности",
+    "DESCRIPTION": "Даёт !M! золота в конце боя.  NL  Усиление  [E] : Вы также получаете случайное зелье",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "TreasureHunter": {
-    "NAME": "TreasureHunter",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy in an Elite or Boss room, at the end of combat, obtain 1 random relic. NL Exhaust.",
+    "NAME": "Охотник за сокровищами",
+    "DESCRIPTION": "Наносит !D! урона. NL Убив врага в комнате элитного врага или босса, даёт случайную реликвию в конце боя (кроме прислужников). NL Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "Robbery": {
-    "NAME": "Robbery",
-    "DESCRIPTION": "Deal !D! damage. Gain gold equal to unblocked damage dealt. NL Exhaust. NL Amplify [E] : Double the gold you gain.",
+    "NAME": "Воровство",
+    "DESCRIPTION": "Наносит !D! урона. Даёт золото, равное количеству урона по ОЗ врагов. NL Сжигается. NL Усиление [E] : Удваивает количество получаемого золота.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "6A": {
     "NAME": "6A",
-    "DESCRIPTION": "Deal !D! damage. Gain Block equal to the unblocked damage dealt.",
+    "DESCRIPTION": "Наносит !D! урона. Даёт Защиту, равную количеству урона по ОЗ врагов.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "CircumpolarStar": {
-    "NAME": "Circumpolar Star",
-    "DESCRIPTION": "Gain !B! Block. Draw !M! card(s). Increase this card's draw amount by 1 for this combat.",
+    "NAME": "Циркумполярная звезда",
+    "DESCRIPTION": "Даёт !B! Защиты. Вы берёте !M! карт. Увеличивает количество добираемых карт на 1 в этом бою.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "RefractionSpark": {
-    "NAME": "Refraction Spark",
-    "DESCRIPTION": "Deal !D! damage. Increase the damage of ALL Spark cards in your hand by the unblocked damage dealt. NL Amplify  [E]  : Deal !B! damage instead.",
+    "NAME": "Преломляющая Искра",
+    "DESCRIPTION": "Наносит !D! урона. Увеличивает урон ВСЕХ Искр в вашей руке на количество урона по ОЗ врага. NL Усиление  [E]  : Вместо этого наносит !B! урона.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "MagicChant": {
-    "NAME": "Magic Chant",
-    "DESCRIPTION": "Choose !M! cards to Upgrade and Retain this turn.",
-    "UPGRADE_DESCRIPTION": "Retain. Choose !M! to retain this turn. Reduce the cost of the chosen cards by 1 next turn."
+    "NAME": "Песнь магии",
+    "DESCRIPTION": "Выберите !M! карт. Вы Улучшаете и Оставляете их на этом ходу.",
+    "UPGRADE_DESCRIPTION": "Остаётся. Выберите !M! карт. Они Остаются на этом ходу. Уменьшает их стоимость на 1 в след. ходу."
   },
   "UnstableBomb": {
     "NAME": "Unstable Bomb",
