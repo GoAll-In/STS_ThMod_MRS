@@ -306,14 +306,14 @@
     "UPGRADE_DESCRIPTION": "Остаётся. Выберите !M! карт. Вы Оставляете их на этом ходу. Уменьшает их стоимость на 1 в след. ходу."
   },
   "UnstableBomb": {
-    "NAME": "Unstable Bomb",
-    "DESCRIPTION": "Deal random damage ( !D! to !B! ) to a random enemy 4 times.",
+    "NAME": "Нестабильная бомба",
+    "DESCRIPTION": "Наносит случайный урон (от !D! до !B! ) случайному врагу 4 раза.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "SuperNova": {
-    "NAME": "Supernova",
-    "DESCRIPTION": "No longer take damage from Burn. Whenever you Exhaust a Burn, gain 1 Strength. NL Exhaust your hand at the end of each turn.",
-    "UPGRADE_DESCRIPTION": "No longer take damage from Burn. Whenever you Exhaust a Curse or Status, gain 1 Strength. NL Exhaust your hand at the end of each turn."
+    "NAME": "Суперновая",
+    "DESCRIPTION": "Вы больше не получаете урона от Ожогов. Каждый раз, когда вы Сжигаете Ожог, даёт 1 Силы. NL В конце каждого хода вы Сжигаете все карты в руке.",
+    "UPGRADE_DESCRIPTION": "Вы больше не получаете урона от Ожогов. Каждый раз, когда вы Сжигаете Проклятие или Статус, даёт 1 Силы. NL В конце каждого хода вы Сжигаете все карты в руке."
   },
   "OneTimeOff": {
     "NAME": "One Time Off",
