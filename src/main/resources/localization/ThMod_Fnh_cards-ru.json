@@ -316,16 +316,16 @@
     "UPGRADE_DESCRIPTION": "Вы больше не получаете урона от Ожогов. Каждый раз, когда вы Сжигаете Проклятие или Статус, даёт 1 Силы. NL В конце каждого хода вы Сжигаете все карты в руке."
   },
   "OneTimeOff": {
-    "NAME": "One Time Off",
-    "DESCRIPTION": "Gain !B! Block. You can't activate Amplify effects this turn. NL Draw !M! card(s) next turn.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. You can't activate Amplify effects or consume Charge-up this turn. NL Draw !M! card(s) next turn."
+    "NAME": "Передышка",
+    "DESCRIPTION": "Даёт !B! Защиты. Вы не можете активировать эффекты Усиления на этом ходу. NL Вы возьмёте !M! карт в след. ходу.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. Вы не можете активировать эффекты Усиления или тратить Заряд на этом ходу. NL Вы возьмёте !M! карт в след. ходу."
   },
   "DarkMatter": {
-    "NAME": "Dark Matter",
-    "DESCRIPTION": "Can only be played once per turn. NL Shuffle 2 copies of this card into your draw pile. Draw 1 card. When this card is Exhausted, gain !B! Block. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Can only be played once per turn. NL Shuffle 2 copies of this card into your draw pile. Draw 1 card. When this card is Exhausted, gain !B! Block. NL Ethereal .",
+    "NAME": "Тёмная материя",
+    "DESCRIPTION": "Может быть сыграна лишь раз за ход. NL Замешивает в стопку добора 2 копии этой карты. Вы берёте 1 карту. Если эта карта Сжигается, даёт !B! Защиты. NL Эфирная.",
+    "UPGRADE_DESCRIPTION": "Может быть сыграна лишь раз за ход. NL Замешивает в стопку добора 2 копии этой карты. Вы берёте 1 карту. Если эта карта Сжигается, даёт !B! Защиты. NL Эфирная.",
     "EXTENDED_DESCRIPTION": [
-      "I can't play Dark Matter again this turn.",
+      "Я могу разыграть Тёмную материю лишь раз за ход",
       ""
     ]
   },
