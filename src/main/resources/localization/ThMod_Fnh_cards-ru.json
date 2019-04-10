@@ -277,7 +277,7 @@
   },
   "TreasureHunter": {
     "NAME": "Охотник за сокровищами",
-    "DESCRIPTION": "Наносит !D! урона. NL Убив врага в комнате элитного врага или босса, даёт случайную реликвию в конце боя (кроме прислужников). NL Сжигается.",
+    "DESCRIPTION": "Наносит !D! урона. NL Убив врага(кроме прислужников) в комнате элитного врага или босса, даёт случайную реликвию в конце боя . NL Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "Robbery": {
@@ -330,32 +330,32 @@
     ]
   },
   "GasGiant": {
-    "NAME": "Gas Giant",
-    "DESCRIPTION": "Gain !B! Block. Add !M! Burns to your hand.",
+    "NAME": "Газовый гигант",
+    "DESCRIPTION": "Даёт !B! Защиты. Добавляет !M! Ожогов в вашу руку.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "CasketOfStar": {
-    "NAME": "Casket Of Star",
-    "DESCRIPTION": "Whenever you gain Block, add a Spark to your hand.",
-    "UPGRADE_DESCRIPTION": "Whenever you gain Block, add an Upgraded Spark to your hand."
+    "NAME": "Звёздная шкатулка",
+    "DESCRIPTION": "Каждый раз, когда вы получаете Защиту, добавляет Искру в вашу руку.",
+    "UPGRADE_DESCRIPTION": "Каждый раз, когда вы получаете Защиту, добавляет Улучшенную Искру в вашу руку."
   },
   "ChargeUpSpray": {
-    "NAME": "Charge-Up Spray",
-    "DESCRIPTION": "Deal !D! damage. NL If this card consumes Charge-up, gain [E] and draw !M! cards.",
+    "NAME": "Зарядный распылитель",
+    "DESCRIPTION": "Наносит !D! урона. NL Если эта карта тратит Заряд, даёт [E] и добирает !M! карт.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "EnergyRecoil": {
-    "NAME": "Energy Recoil",
-    "DESCRIPTION": "Gain Block equal to your Charge-up.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to your Charge-up + 3.",
+    "NAME": "Откат энергии",
+    "DESCRIPTION": "Даёт Защиту, равную вашему Заряду",
+    "UPGRADE_DESCRIPTION": "Даёт Защиту, равную вашему Заряду + 3.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gain ",
-      " Block.)"
+      " NL (Даёт ",
+      " Защиты.)"
     ]
   },
   "GalacticHalo": {
-    "NAME": "Galactic Halo",
-    "DESCRIPTION": "Gain !B! Block and !M! Charge-up.",
+    "NAME": "Гало Галактики",
+    "DESCRIPTION": "Даёт !B! Защиты и !M! Заряда.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "ManaConvection": {
