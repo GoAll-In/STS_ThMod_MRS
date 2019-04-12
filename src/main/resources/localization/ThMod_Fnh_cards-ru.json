@@ -359,14 +359,14 @@
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "ManaConvection": {
-    "NAME": "Mana Convection",
-    "DESCRIPTION": "Draw !M! cards. Exhaust 2 cards. NL If you have 8 or more Charge-up, lose 8 Charge-up and gain  [E]  [E]  .",
+    "NAME": "Конвекция маны",
+    "DESCRIPTION": "Вы берёте !M! карт. Сжигает 2 карты. NL Если у вас 8 или более Заряда, отнимает 8 Заряда и даёт  [E]  [E]  .",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "ManaRampage": {
-    "NAME": "Mana Rampage",
-    "DESCRIPTION": "Play X random Attacks.",
-    "UPGRADE_DESCRIPTION": "Play X random Upgraded Attacks."
+    "NAME": "Буйство маны",
+    "DESCRIPTION": "Вы разыгрываете X случайных Атак.",
+    "UPGRADE_DESCRIPTION": "Вы разыгрываете X случайных Улучшенных Атак."
   },
   "StarBarrage": {
     "NAME": "Star Barrage",
