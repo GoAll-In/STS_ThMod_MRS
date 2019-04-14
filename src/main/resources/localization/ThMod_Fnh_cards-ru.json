@@ -282,12 +282,12 @@
   },
   "Robbery": {
     "NAME": "Воровство",
-    "DESCRIPTION": "Наносит !D! урона. Даёт золото, равное количеству урона по ОЗ врагов. NL Сжигается. NL Усиление [E] : Удваивает количество получаемого золота.",
+    "DESCRIPTION": "Наносит !D! урона. Даёт золото, равное количеству урона по ОЗ врага. NL Сжигается. NL Усиление [E] : Удваивает количество получаемого золота.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "6A": {
     "NAME": "6A",
-    "DESCRIPTION": "Наносит !D! урона. Даёт Защиту, равную количеству урона по ОЗ врагов.",
+    "DESCRIPTION": "Наносит !D! урона. Даёт Защиту, равную количеству урона по ОЗ врага.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "CircumpolarStar": {
@@ -369,20 +369,20 @@
     "UPGRADE_DESCRIPTION": "Вы разыгрываете X случайных Улучшенных Атак."
   },
   "StarBarrage": {
-    "NAME": "Star Barrage",
-    "DESCRIPTION": "Deal !D! damage !M! time. NL Every time this card is played, it deals damage 1 additional time for this combat.",
+    "NAME": "Звёздный шквал",
+    "DESCRIPTION": "Наносит !D! урона !M! раз. NL За каждое разыгрывание в этом бою наносит урон 1 дополнительный раз.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "AFriendsGift": {
-    "NAME": "A Friend's Gift",
-    "DESCRIPTION": "Unplayable. Transform to a random card of three specific cards.",
-    "UPGRADE_DESCRIPTION": "Retain. Deal !D! damage. Increase damage by 2 when your turn starts. Exhaust. NL Amplify  [E]  : Deal !B! damage instead, don't Exhaust."
+    "NAME": "Подарок от друга",
+    "DESCRIPTION": "Неиграбельная. Трансформируйте, чтобы получить одну из трёх особых карт.",
+    "UPGRADE_DESCRIPTION": "Остаётся. Наносит !D! урона. С каждым вашим ходом наносит на 2 урона больше. Сжигается. NL Усиление  [E]  : Вместо этого наносит !B! урона и не Сжигается."
   },
   "BinaryStars": {
-    "NAME": "Binary Stars",
-    "DESCRIPTION": "Choose to add either Black Flare Star or White Dwarf to your hand. Exhaust. NL Amplify  [E]  : Add both to your hand instead.",
-    "UPGRADE_DESCRIPTION": "Choose to add and upgrade either Black Flare Star or White Dwarf to your hand. Exhaust. NL Amplify  [E]  : Add both to your hand instead."
-  },
+    "NAME": "Двоичные звёзды",
+    "DESCRIPTION": "Выберите и добавьте Звезду Чёрной Вспышки или Белого Карлика в вашу руку. Сжигается. NL Усиление  [E]  : Вместо этого добавляет в руку обе карты.",
+    "UPGRADE_DESCRIPTION": "Выберите и добавьте Звезду Чёрной Вспышки или Белого Карлика в вашу руку. Сжигается. NL Усиление  [E]  : Вместо этого добавляет в руку обе карты."
+  },  
   "CollectingQuirk": {
     "NAME": "Collecting Quirk",
     "DESCRIPTION": "Deal !D! damage to a random enemy for every !M! Relics you have.",
