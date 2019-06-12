@@ -384,23 +384,23 @@
     "UPGRADE_DESCRIPTION": "Выберите и добавьте Звезду Чёрной Вспышки или Белого Карлика в вашу руку. Сжигается. NL Усиление  [E]  : Вместо этого добавляет в руку обе карты."
   },  
   "CollectingQuirk": {
-    "NAME": "Collecting Quirk",
-    "DESCRIPTION": "Deal !D! damage to a random enemy for every !M! Relics you have.",
+    "NAME": "Трюк барахольщика",
+    "DESCRIPTION": "Наносит !D! урона случайному врагу за каждые !M! имеющихся у вас реликвий.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW",
     "EXTENDED_DESCRIPTION": [
-      "(Deals damage !B! time(s))",
+      "(Наносит урон !B! раз)",
       ""
     ]
   },
   "FungusSplash": {
-    "NAME": "Fungus Brew",
-    "DESCRIPTION": " Exhaust a card. Throw a potion at your target. NL The type of potion depends on the type of the card you exhausted. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": " Exhaust a card. Throw a potion at your target. NL The type of potion depends on the type of the card you exhausted ."
+    "NAME": "Грибной отвар",
+    "DESCRIPTION": "Вы Сжигаете карту. Кидает в вашу цель зелье. NL Тип зелья зависит от типа Сожжённой карты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы Сжигаете карту. Кидает в вашу цель зелье. NL Тип зелья зависит от типа Сожжённой карты."
   },
   "PropBag": {
-    "NAME": "Portable Prop Bag",
-    "DESCRIPTION": "Randomly get either Orichalcum, Amplification Wand or Art Of War. NL Lose that relic when the battle ends. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": " Innate. NL Randomly get either Orichalcum, Amplification Wand or Art Of War. NL Lose that relic when the battle ends. NL Exhaust."
+    "NAME": "Мешок с безделушками",
+    "DESCRIPTION": "Случайно даёт Орихалк, ?Тропу войны? или Палочку усиления. NL Вы теряете эту реликвию в конце боя. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Случайно даёт Орихалк, ?Тропу войны? или Палочку усиления. NL Вы теряете эту реликвию в конце боя. NL Сжигается."
   },
   "BlackFlareStar": {
     "NAME": "Black Flare Star",
