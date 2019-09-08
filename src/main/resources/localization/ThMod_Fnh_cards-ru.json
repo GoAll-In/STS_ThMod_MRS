@@ -403,46 +403,46 @@
     "UPGRADE_DESCRIPTION": "Начальная. NL Случайно даёт Орихалк, ?Тропу войны? или Палочку усиления. NL Вы теряете эту реликвию в конце боя. NL Сжигается."
   },
   "BlackFlareStar": {
-    "NAME": "Black Flare Star",
-    "DESCRIPTION": "Can only be played when you have 4 or more cards in your hand. NL Discard any number of cards from your hand and gain !B! Block for each.",
+    "NAME": "Звезда Чёрной Вспышки",
+    "DESCRIPTION": "Может быть сыграна только если у вас в руке 4 карты или более. NL Сжигает любое количество карт в руке и даёт !B! Защиты за каждую Сожженную карту.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW",
     "EXTENDED_DESCRIPTION": [
-      "I don't have 4 cards in my hand.",
+      "У меня в руке меньше 4 карт.",
       ""
     ]
   },
   "WhiteDwarf": {
-    "NAME": "White Dwarf",
-    "DESCRIPTION": "Can only be played when you have 4 or less cards in your hand. NL Deal !B! damage (1.5 × size of your discard pile). Add 2 Burns to your hand.",
-    "UPGRADE_DESCRIPTION": "Can only be played when you have 4 or less cards in your hand. NL Deal !B! damage (2 × size of your discard pile). Add 2 Burns to your hand.",
+    "NAME": "Белый Карлик",
+    "DESCRIPTION": "Может быть сыграна только если у вас в руке 4 карты или менее. NL Наносит !B! урона (1.5 × размер стопки сброса). Добавляет 2 Ожога в вашу руку.",
+    "UPGRADE_DESCRIPTION": "Может быть сыграна только если у вас в руке 4 карты или менее. NL Наносит !B! урона (2 × размер стопки сброса). Добавляет 2 Ожога в вашу руку.",
     "EXTENDED_DESCRIPTION": [
-      "I have more than 4 cards in my hand.",
+      "У меня в руке больше 4 карт",
       ""
     ]
   },
   "FairyDestructionRay": {
-    "NAME": "Fairy Destruction Ray",
-    "DESCRIPTION": "Deal !D! damage to all enemies. Amplify  [E]  [E] : Instant-kill those with !M! or less HP.",
+    "NAME": "Сокрушительный луч фей",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. Усиление  [E]  [E] : Мгновенно убивает всех врагов с !M! или меньше ОЗ.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "Orbital": {
-    "NAME": "Orbital",
-    "DESCRIPTION": " Unplayable. When this card is drawn, draw 1 card. NL If this card is Exhausted, place !M! card(s) from your exhaust pile into your hand.",
+    "NAME": "Орбитал",
+    "DESCRIPTION": "Неиграбельная. Когда вы берёте эту карту, вы берёте ещё одну. NL Если эта карта Сжигается, положите !M! карт из стопки сброса в руку.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "SillyJoke": {
-    "NAME": "Mana Phantom",
-    "DESCRIPTION": "Cast a Magic that is only shown to true Magicians. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Cast a splendid Magic that is only shown to true Magicians. NL Exhaust. NL Ethereal."
+    "NAME": "Призрак маны",
+    "DESCRIPTION": "Использует Заклинание видимое лишь истинным Магам. NL Сжигается. NL Эфирная.",
+    "UPGRADE_DESCRIPTION": "Использует невероятное Заклинание видимое лишь истинным Магам. NL Сжигается. NL Эфирная."
   },
   "ExplosiveMarionette": {
-    "NAME": "Explosive Marionette",
-    "DESCRIPTION": " Retain. Deal !D! damage. NL Amplify [E] : Deal double damage. Exhaust.",
+    "NAME": "Взрывная кукла",
+    "DESCRIPTION": "Остаётся. Наносит !D! урона. NL Усиление [E] : Наносит двойной урон. Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "OpticalCamouflage": {
-    "NAME": "Optical Camouflage",
-    "DESCRIPTION": " Retain. Gain !B! Block. NL Amplify [E] : Gain double amount. Exhaust.",
+    "NAME": "Оптический камуфляж",
+    "DESCRIPTION": ". Gain !B! Block. NL Amplify [E] : Gain double amount. Exhaust.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "FiveColoredTalisman": {
