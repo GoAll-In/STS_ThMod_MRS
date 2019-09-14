@@ -442,37 +442,37 @@
   },
   "OpticalCamouflage": {
     "NAME": "Оптический камуфляж",
-    "DESCRIPTION": ". Gain !B! Block. NL Amplify [E] : Gain double amount. Exhaust.",
+    "DESCRIPTION": "Остаётся. Даёт !B! Защиты. NL Усиление [E] : Даёт вдвое больше Защиты. Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "FiveColoredTalisman": {
-    "NAME": "Five-Colored Talisman",
-    "DESCRIPTION": "Retain. Add a random skill to your hand at the start of your turn.",
+    "NAME": "Пятицветный талисман",
+    "DESCRIPTION": "Остаётся. Добавляет случайный Навык в вашу руку в начале вашего хода.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "AlicesGift": {
-    "NAME": "Alice's Gift",
-    "DESCRIPTION": " Retain. Deal !D! Damage. Exhaust . NL Amplify [E]  [E] : Deals triple damage.",
+    "NAME": "Алисин дар",
+    "DESCRIPTION": "Остается. Наносит !D! урона. Сжигается. NL Усиление [E]  [E] : Наносит тройной урон.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "Exhaustion_MRS": {
-    "NAME": "Exhaustion",
-    "DESCRIPTION": "Unplayable. NL While in hand, you cannot gain or consume Charge-up.",
+    "NAME": "Усталость",
+    "DESCRIPTION": "Неиграбельная. NL Пока эта карта находится в вашей руке, вы не можете накапливать или тратить Заряд.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "UltimateShortwave": {
-    "NAME": "Ultimate Shortwave",
-    "DESCRIPTION": "Gain !B! [E] and !M! Charge-up. Increase the Charge-up gain of this card by !D! and energy gain by 1 for this battle.",
+    "NAME": "Предельная короткая волна",
+    "DESCRIPTION": "Даёт !B! [E] и !M! Заряда. С каждым использованием в этом бою даёт на !D! больше Заряда и на 1 больше Энергии.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "NebulaRing": {
-    "NAME": "Nebula Ring",
-    "DESCRIPTION": "Gain !M! Plated Armor whenever you lose Block from enemies or cards.",
+    "NAME": "Кольцо туманности",
+    "DESCRIPTION": "Даёт !M! Панциря когда вы теряете Защиту из-за атак или карт.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "SprinkleStarSeal": {
-    "NAME": "Sprinkle Star Seal",
-    "DESCRIPTION": "Apply 99 Weak. NL Exhaust.",
+    "NAME": "Печать Рассыпной Звезды",
+    "DESCRIPTION": "Накладывает 99 Слабости. NL Сжигается.",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "WWWWWWWWWWWWWW": {
